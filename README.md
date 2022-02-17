@@ -1,1 +1,1 @@
-# 2022-S1-G60-Laboratorio-0
+# 2022-S1 Grupo 60 Laboratorio 0
