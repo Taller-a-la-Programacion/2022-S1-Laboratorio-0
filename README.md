@@ -1,4 +1,5 @@
 # Laboratorio 0
+Elarchivo que debe de subir a este repositorio se debe de llamar **Laboratorio0.py**
 
 ## areaTrapecio(B, b, h)
 Hacer una función llamado areaTrapecio que contenga 3 parámetros de entrada (B, b, h), los tres valores deben ser Enteros y mayores a CERO. 
