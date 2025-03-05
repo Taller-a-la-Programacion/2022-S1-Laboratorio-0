@@ -42,7 +42,7 @@ True
 False
 
 ```
-## residuoImpar(numerador, divisor)
+## residuoImpar(dividendo, divisor)
 Implemente una función llamada residuoImpar(num) que reciba como argumentos dos números enteros positivos, el divisor si debe ser mayor a cero. La función debe retornar **True** si el resíduo de la división es Impar y **False** si es par
 
 ```python
