@@ -23,3 +23,14 @@ def test_sonImpares_1():
 
 def test_sonImpares_2():
     assert Laboratorio0.sonImpares(4130) == False
+
+
+def test_residuoImpar_1():
+    assert Laboratorio0.residuoImpar(40, 6) == True
+
+def test_residuoImpar_2():
+    assert Laboratorio0.residuoImpar(120, 10) == False
+
+def test_residuoImpar_3():
+    assert isinstance(Laboratorio0.residuoImpar(120, 0),str) == isinstance("Error: El divisor debe ser mayor a cero", str)
+    
