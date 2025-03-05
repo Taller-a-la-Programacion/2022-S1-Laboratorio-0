@@ -33,12 +33,22 @@ Tomar en cuenta que:
 "Error: Es una edad poco probable, favor consultar"
 ```
 ## sonImpares(num)
-Implemente una función llamada sonImpares(num) que reciba como argumentos un número entero positivo mayor a cero. La función debe retornar **True** si todos los dígitos que lo compone son Impares y **False** si almenos uno de ellos es par
+Implemente una función llamada sonImpares(num) que reciba como argumentos un número entero positivo mayor a cero. La función debe retornar **True** si el número es Impar o **False** si  es par
 
 ```python
 >>> sonImpares (1357)
 True
 >>> sonImpares (4131) 
+False
+
+```
+## residuoImpar(numerador, divisor)
+Implemente una función llamada residuoImpar(num) que reciba como argumentos dos números enteros positivos, el divisor si debe ser mayor a cero. La función debe retornar **True** si el resíduo de la división es Impar y **False** si es par
+
+```python
+>>> residuoImpar (40, 6)
+True
+>>> residuoImpar (120, 10) 
 False
 
 ```
