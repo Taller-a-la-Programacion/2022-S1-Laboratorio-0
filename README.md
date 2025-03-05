@@ -17,8 +17,8 @@ Tomar en cuenta que:
 -	Debe ser entero positivo
 -	Si el rango de edad es de 0 a 10 su grupo de población es ‘Niños’
 -	Si el rango de edad es mayor a 10 a 18 su grupo de población es ‘Adolescentes’
--	Si el rango de edad es mayor de 18 a 50 su grupo de población es ‘Adultos’
--	Si el rango de edad es mayor de 50 a 125 su grupo de población es ‘Ancianos’
+-	Si el rango de edad es mayor de 18 a 80 su grupo de población es ‘Adultos’
+-	Si el rango de edad es mayor de 80 a 125 su grupo de población es ‘Ancianos’
 -	Si es mayor a 125, retornar el mensaje “Es una edad poco probable, favor consultar”
 -	Si es negativo devolver el mensaje respectivo a valores entre 0 a 125
 
