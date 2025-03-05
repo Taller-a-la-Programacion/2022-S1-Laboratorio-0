@@ -22,4 +22,4 @@ def test_sonImpares_1():
     assert Laboratorio0.sonImpares(1357) == True
 
 def test_sonImpares_2():
-    assert Laboratorio0.sonImpares(4131) == False
+    assert Laboratorio0.sonImpares(4130) == False
