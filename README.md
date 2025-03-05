@@ -38,7 +38,7 @@ Implemente una funciÃ³n llamada sonImpares(num) que reciba como argumentos un nÃ
 ```python
 >>> sonImpares (1357)
 True
->>> sonImpares (4131) 
+>>> sonImpares (4130) 
 False
 
 ```
